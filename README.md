@@ -43,7 +43,7 @@ O projeto está sendo desenvolvido na [Next Level Week 2](https://nextlevelweek.
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/wrtinho/GIL-Python/blob/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/wrtinho/proffy-discovery/blob/master/LICENSE) para mais detalhes.
 
 ---
 
