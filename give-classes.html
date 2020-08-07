@@ -15,9 +15,11 @@
     <link rel="stylesheet" href="/styles/partials/page-give-classes.css">
 
 
-    <link
-        href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap" rel="stylesheet">
+
+    <script src="/scripts/addField.js" defer></script>
+
+
 </head>
 
 <body id="page-give-classes">
@@ -90,10 +92,10 @@
 
                 <fieldset id="schedule-items">
                     <legend>Horários disponíveis
-                        <button id="add-time">+ Novo Horário</button>
+                        <button type="button" id="add-time">+ Novo Horário</button>
                     </legend>
 
-                    <div class="schedule-item ">
+                    <div class="schedule-item">
                         <div class="select-block">
                             <label for="weekday">Dia da semana</label>
                             <select name="weeday[]"  required>
@@ -130,6 +132,7 @@
             </footer>
         </main>
     </div>
+
 
 </body>
 
