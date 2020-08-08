@@ -68,7 +68,7 @@
 }
 
 .buttons-container a.give-classes:hover {
-    background: var(--secondary-dark);
+    background: var(--color-secondary-dark);
 }
 
 .total-connections {
