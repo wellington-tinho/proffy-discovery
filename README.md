@@ -3,7 +3,7 @@
 
   <img src="https://img.shields.io/badge/Front End%3F-ok-blueviolet?style=for-the-badge" alt="Front-End Ok" />
 
-  <img src="https://img.shields.io/badge/Back End%3F-No-blueviolet?style=for-the-badge" alt="Back-End No" />
+  <img src="https://img.shields.io/badge/Back End%3F-Ok-blueviolet?style=for-the-badge" alt="Back-End Ok" />
 
   <img src="https://img.shields.io/badge/Database%3F-No-blueviolet?style=for-the-badge" alt="Database No" />
 
