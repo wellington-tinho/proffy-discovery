@@ -5,7 +5,7 @@
 
   <img src="https://img.shields.io/badge/Back End%3F-Ok-blueviolet?style=for-the-badge" alt="Back-End Ok" />
 
-  <img src="https://img.shields.io/badge/Database%3F-No-blueviolet?style=for-the-badge" alt="Database No" />
+  <img src="https://img.shields.io/badge/Database%3F-OK-blueviolet?style=for-the-badge" alt="Database OK" />
 
   <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=blueviolet&style=for-the-badge" alt="License" />
 </h2>
