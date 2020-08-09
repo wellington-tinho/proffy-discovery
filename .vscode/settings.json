@@ -1,2 +1,4 @@
 {
+    "workbench.view.alwaysShowHeaderActions": true,
+    "breadcrumbs.showBooleans": false
 }
