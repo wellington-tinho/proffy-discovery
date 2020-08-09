@@ -47,13 +47,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 ---
 
-<h4 align="center">
-    Feito com 💜 by <a href="https://www.linkedin.com/in/wellington-rodrigues-a11b1392/" target="_blank">Wellington </a>
-</h4>
 
-
-
-<!-- ## ⌨ Como executar o projeto
+ ## ⌨ Como executar o projeto
 
 ```bash
 # Clonar o repositório
@@ -71,4 +66,11 @@ npm run dev
 
 Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
---- -->
+---
+
+
+<h4 align="center">
+    Feito com 💜 by <a href="https://www.linkedin.com/in/wellington-rodrigues-a11b1392/" target="_blank">Wellington </a>
+</h4>
+
+
